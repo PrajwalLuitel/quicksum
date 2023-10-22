@@ -20,7 +20,7 @@
   background: linear-gradient(
     to bottom right,
     rgba(0, 56, 147, 0.5) 25%,
-    rgba(0, 0, 0, 0) 43%,
+    #dbd9d9 43%,
     rgba(220, 20, 60, 0.5) 66%
   );
   background-attachment: fixed;
